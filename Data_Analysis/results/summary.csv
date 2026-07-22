@@ -1,0 +1,6 @@
+Metric,Control,Treatment
+Proportion Infected,0.40,0.28
+Confidence Interval Lower,0.30398177,0.19199784
+Confidence Interval Upper,0.49601823,0.36800216
+Z-statistic,1.7912443020795965,
+p-value,0.0732540997782139,
